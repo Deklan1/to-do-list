@@ -1,0 +1,10 @@
+
+
+
+.TodoCard {
+    width: 600px;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 4px 4px 20px rgba(185, 186, 185, 0.75);
+    border: 1px solid red;
+}
